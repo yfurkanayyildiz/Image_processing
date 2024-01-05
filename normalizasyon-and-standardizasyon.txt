@@ -1,0 +1,5 @@
+Normalizasyon, verileri 0 ile 1 arasında yeniden ölçekler. Standardizasyon ise, verilerin ortalamasının 0 ve standart sapmasının 1 olması için yeniden ölçeklendirir.
+
+Normalizasyon, tüm özelliklerin aynı ölçekte olmasını sağlar. Standardizasyon ise, bazı özellikleri ortadan kaldırır.
+
+Normalizasyon, genellikle görüntü tanıma ve doğal dil işleme gibi uygulamalarda kullanılır. Standardizasyon ise, genellikle makine öğrenimi modellerinin genel performansını iyileştirmek için kullanılır.
